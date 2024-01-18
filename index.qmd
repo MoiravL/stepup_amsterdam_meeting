@@ -1,0 +1,51 @@
+---
+title: First joint StepuP meeting
+---
+
+# Welcome
+Welcome to the first joint StepuP meeting. In this meeting we will give you a short overview of the project and the current status. We will also introduce some of the people involved in the project. 
+
+![](lab.jpg){width="50%" fig-align="center"}
+
+## Timetable
+The meeting will be held from the 22nd to 24th of feburary in amsterdam.
+The first day will consist of pratical work in the lab. The second day will be a full day of presentations and discussions. The third day will be fun.
+
+### Day 1
+The first day will be held in the lab. We will start at 09:00 and end at around 18:00. We will try to have lunch at 12:30.
+The Lab is located at the [VU](http://www.vu.nl/en/index.aspx) in Amsterdam. The exact location will be announced later. There will be introductions into all relevant practical aspects of the project. We will also have a look at the current status of the project. All equipment will be available for testing. 
+We will cover:
+
+- Clinical tests
+- EEG
+- EMG
+- Motion capture
+
+### Day 2
+The second day will be held hybrid with some people in the lab and some people joining online. We will start at 9:00 and end after the last lecture has finished.
+The day will consist of presentations and discussions. We will cover:
+
+| Time  | Topic           | Speaker       | Time (Tel Aviv) | Time (Sydney) |
+|-------|-----------------|---------------|-----------------|---------------|
+| 9:00  | Introduction    | Jaap          | 10:00           | 17:00         |
+| 10:00 | Break           |               | 11:00           | 18:00         |
+| 10:15 | BIDS            | Julius        | 11:15           | 18:15         |
+| 11:00 | EEG coherence   | Bernadette    | 12:00           | 19:00         |
+| 11:45 | Foot placement  | Moira         | 12:45           | 19:45         |
+| 14:00 | Home assessment | Charlotte     | 15:00           | 22:00         |
+| 14:45 | Clinical PD     | Walter        | 15:45           | 22:45         |
+| 15:30 | Break           |               | 16:30           | 23:30         |
+| 16:00 | VR              | Shahar        | 17:00           | 00:00         |
+| 16:45 | Training        | Yoshi         | 17:45           | 00:45         |
+
+All slides and materials will be made avaliable online after the meeting.
+
+
+## Location
+The meeting will be held at the [VU](http://www.vu.nl/en/index.aspx) in Amsterdam.
+
+## Accomodation
+If you want to stay in Amsterdam, we recommend the [Hotel Vondel](https://www.hotelvondel.com/en/). It is a nice hotel in the center of Amsterdam. It is also close to the VU.
+
+## Organizers
+The meeting is organized by [Moira](mailto:a.m.van.leeuwen@vu.nl?subject=StepuP%20meeting)
