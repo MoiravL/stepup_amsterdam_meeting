@@ -12,8 +12,8 @@ The meeting will be held from the 22nd to 24th of feburary in amsterdam.
 The first day will consist of pratical work in the lab. The second day will be a full day of presentations and discussions. The third day will be fun.
 
 ### Day 1
-The first day will be held in the lab. We will start at 09:00 and end at around 18:00. We will try to have lunch at 12:30.
-The Lab is located at the [VU](http://www.vu.nl/en/index.aspx) in Amsterdam. The exact location will be announced later. There will be introductions into all relevant practical aspects of the project. We will also have a look at the current status of the project. All equipment will be available for testing. 
+The first day will be held in the lab (C487 Dualbeltlab). We will start at 09:00 and end at around 18:00. We will try to have lunch at 12:30.
+The Lab is located at the VU (Van der Boechorststraat, 71081 HV Amsterdam) in Amsterdam. The exact location will be announced later. There will be introductions into all relevant practical aspects of the project. We will also have a look at the current status of the project. All equipment will be available for testing. 
 We will cover:
 
 - Clinical tests
@@ -22,7 +22,7 @@ We will cover:
 - Motion capture
 
 ### Day 2
-The second day will be held hybrid with some people in the lab and some people joining online. We will start at 9:00 and end after the last lecture has finished.
+The second day will be held hybrid with some people in the VU (Room: Salutem 2) and some people joining online. We will start at 9:00 and end after the last lecture has finished.
 The day will consist of presentations and discussions. We will cover:
 
 | Time  | Topic           | Speaker       | Time (Tel Aviv) | Time (Sydney) |
