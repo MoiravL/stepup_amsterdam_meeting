@@ -29,14 +29,15 @@ The day will consist of presentations and discussions. We will cover:
 |-------|-----------------|---------------|-----------------|---------------|
 | 9:00  | Introduction    | Jaap          | 10:00           | 17:00         |
 | 10:00 | Break           |               | 11:00           | 18:00         |
-| 10:15 | BIDS            | Julius        | 11:15           | 18:15         |
-| 11:00 | EEG coherence   | Bernadette    | 12:00           | 19:00         |
+| 10:15 | Walking Tall    | Matt          | 11:15           | 18:15         |
+| 11:00 | EEG             | Bernadette    | 12:00           | 19:00         |
 | 11:45 | Foot placement  | Moira         | 12:45           | 19:45         |
+| 12:30 | Lunch           |               | 13:30           | 20:30         |
 | 14:00 | Home assessment | Charlotte     | 15:00           | 22:00         |
-| 14:45 | Clinical PD     | Walter        | 15:45           | 22:45         |
+| 14:45 | Joint Angles    | Karolina      | 15:45           | 22:45         |
 | 15:30 | Break           |               | 16:30           | 23:30         |
 | 16:00 | VR              | Shahar        | 17:00           | 00:00         |
-| 16:45 | Training        | Yoshi         | 17:45           | 00:45         |
+| 16:45 | BIDS            | Julius        | 17:45           | 00:45         |
 
 All slides and materials will be made avaliable online after the meeting.
 
@@ -45,7 +46,9 @@ All slides and materials will be made avaliable online after the meeting.
 The meeting will be held at the [VU](http://www.vu.nl/en/index.aspx) in Amsterdam.
 
 ## Accomodation
-If you want to stay in Amsterdam, we recommend the [Hotel Vondel](https://www.hotelvondel.com/en/). It is a nice hotel in the center of Amsterdam. It is also close to the VU.
+If you want to stay in Amsterdam, we recommend these two accomodations:
+-   [Amsterdam South hotel](https://www.citizenm.com/hotels/europe/amsterdam/amsterdam-south-hotel) (close to the VU)
+-   [Hotel Jansen Schinkel](https://hoteljansen.nl/) (cheaper, more student like)
 
 ## Organizers
 The meeting is organized by [Moira](mailto:a.m.van.leeuwen@vu.nl?subject=StepuP%20meeting)
