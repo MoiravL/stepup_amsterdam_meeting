@@ -11,7 +11,7 @@ Welcome to the first joint StepuP meeting. In this meeting we will give you a sh
 The meeting will be held from the 22nd to 24th of feburary in amsterdam.
 The first day will consist of pratical work in the lab. The second day will be a full day of presentations and discussions. The third day will be fun.
 
-### Day 1
+### Day 1 (Thursday, 22nd of feburary)
 The first day will be held in the lab (C487 Dualbeltlab). We will start at 09:00 and end at around 18:00. We will try to have lunch at 12:30.
 The dualbeltlab is located at the VU, in the Medical Faculty Building (Van der Boechorststraat 7, 71081 HV Amsterdam) in Amsterdam. There will be introductions into all relevant practical aspects of the project. We will also have a look at the current status of the project. All equipment will be available for testing. 
 We will cover:
@@ -21,7 +21,7 @@ We will cover:
 - EMG
 - Motion capture
 
-### Day 2
+### Day 2 (Friday, 23rd of feburary)
 The second day will be held hybrid with some people in the VU (Room: Salutem 2) and some people joining online. We will start at 9:00 and end after the last lecture has finished.
 The day will consist of presentations and discussions. We will cover:
 
@@ -46,8 +46,7 @@ The day will consist of presentations and discussions. We will cover:
 
 All slides and materials will be made avaliable online after the meeting.
 
-### Day 3
-
+### Day 3 (Saturday, 24th of feburary)
 The third day will be all about social sports activities. From 10:30-12:00 we will play the first StepuP basketball tournament at [Sportcentrum Uilenstede](https://sportcentrumvu.nl/en/).
 After lunch, there will be an opportunity to join a typical Dutch sports activity as well: ice skating! For this we will meet at the [Jaap Eden baan](https://www.jaapeden.nl/).
 
