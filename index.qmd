@@ -26,24 +26,24 @@ We will cover:
 The second day will be held hybrid with some people in the VU (Room: Salutem 2) and some people joining online. We will start at 9:00 and end after the last lecture has finished.
 The day will consist of presentations and discussions. We will cover:
 
-| Time  | Topic           | Speaker       | Time (Tel Aviv) | Time (Sydney)    |
-|-------|-----------------|---------------|-----------------|------------------|
-| 9:00  | Introduction    | Jaap          | 10:00           | 19:00            |
-| 9:30  | Walking Tall    | Matt          | 10:30           | 19:30            |
-| 10:00 | Break           |               | 11:00           | 20:00            |
-| 10:15 | ?               | ?             | 11:15           | 20:15            |
-| 10:45 | ?               | ?             | 11:45           | 20:45            |
-| 11:15 | Break           |               | 12:15           | 21:15            |
-| 11:30 | EEG             | Bernadette    | 12:30           | 21:30            |
-| 12:00 | Foot placement  | Moira         | 13:00           | 22:00            |
-| 12:30 | Lunch           |               | 13:30           | 22:30            |
-| 13:30 | Home assessment | Charlotte     | 14:30           | 23:30            |
-| 14:00 | Joint Angles    | Karolina      | 15:00           | 00:00 (next day) |
-| 14:30 | ?               | ?             | 15:30           | 00:30 (next day) |
-| 15:00 | Break           |               | 16:00           | 01:00 (next day) |
-| 15:30 | VR              | Shahar        | 16:30           | 01:30 (next day) |
-| 16:00 | BIDS            | Julius        | 17:00           | 02:00 (next day) |
-| 16:30 | ?               | ?             | 17:30           | 02:30 (next day) |
+| Time  | Topic                     | Speaker       | Time (Tel Aviv) | Time (Sydney)    |
+|-------|-----------------          |---------------|-----------------|------------------|
+| 9:00  | Introduction              | Jaap          | 10:00           | 19:00            |
+| 9:30  | Walking Tall              | Matt          | 10:30           | 19:30            |
+| 10:00 | Break                     |               | 11:00           | 20:00            |
+| 10:15 | ?                         | ?             | 11:15           | 20:15            |
+| 10:45 | Multivariate statistics   | Fabio         | 11:45           | 20:45            |
+| 11:15 | Break                     |               | 12:15           | 21:15            |
+| 11:30 | EEG                       | Bernadette    | 12:30           | 21:30            |
+| 12:00 | Foot placement            | Moira         | 13:00           | 22:00            |
+| 12:30 | Lunch                     |               | 13:30           | 22:30            |
+| 13:30 | Home assessment           | Charlotte     | 14:30           | 23:30            |
+| 14:00 | Joint Angles              | Karolina      | 15:00           | 00:00 (next day) |
+| 14:30 | ?                         | ?             | 15:30           | 00:30 (next day) |
+| 15:00 | Break                     |               | 16:00           | 01:00 (next day) |
+| 15:30 | VR                        | Shahar        | 16:30           | 01:30 (next day) |
+| 16:00 | BIDS                      | Julius        | 17:00           | 02:00 (next day) |
+| 16:30 | ?                         | ?             | 17:30           | 02:30 (next day) |
 
 All slides and materials will be made avaliable online after the meeting.
 
