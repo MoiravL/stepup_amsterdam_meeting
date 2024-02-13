@@ -12,15 +12,20 @@ The meeting will be held from the 22nd to 24th of feburary in amsterdam.
 The first day will consist of pratical work in the lab. The second day will be a full day of presentations and discussions. The third day will be fun.
 
 ### Day 1 (Thursday, 22nd of feburary)
-The first day will be held in the lab (C487 Dualbeltlab). We will start at 09:00 and end at around 18:00. We will try to have lunch at 12:30.
+The first day will be held in the lab (C487 Dualbeltlab). We will start at 09:00 and end at around 18:00 (times below are merely an indication, except for the lunch which will be at 12:30).
 The dualbeltlab is located at the VU, in the Medical Faculty Building (Van der Boechorststraat 7, 71081 HV Amsterdam) in Amsterdam. There will be introductions into all relevant practical aspects of the project. We will also have a look at the current status of the project. All equipment will be available for testing. 
 We will cover:
 
-1. Home assessment by Charlotte
-2. Clinical tests (MDS-UPDRS, MoCA, TMT, ...) by Fabio and Julius
-3. EEG by Julius
-4. EMG by Moira
-5. Motion capture by Moira
+9:00-10:30        1. Home assessment by Charlotte
+11:00 - 12:30     2. Clinical tests (MDS-UPDRS, MoCA, TMT, ...) by Fabio and Julius
+
+12:30             Lunch
+
+13:30 - 15:00     3. EEG by Julius
+15:00 - 16:00     4. EMG by Etienne Marteau               
+16:00 - 17:00     5. Motion capture by Johannes Baaken
+17:00 - 17:30     6. Recording a trial
+17:30 - 18:00     7. Cleaning up
 
 ### Day 2 (Friday, 23rd of feburary)
 The second day will be held hybrid with some people in the VU (Room: Salutem 2) and some people joining online. We will start at 9:00 and end after the last lecture has finished.
@@ -35,7 +40,7 @@ The day will consist of presentations and discussions. We will cover:
 | 10:45 | Multivariate statistics   | Fabio         | 11:45           | 20:45            |
 | 11:15 | Break                     |               | 12:15           | 21:15            |
 | 11:30 | EEG                       | Bernadette    | 12:30           | 21:30            |
-| 12:00 | Foot placement            | Moira         | 13:00           | 22:00            |
+| 12:00 | ?                         | ?             | 13:00           | 22:00            |
 | 12:30 | Lunch                     |               | 13:30           | 22:30            |
 | 13:30 | Home assessment           | Charlotte     | 14:30           | 23:30            |
 | 14:00 | Joint Angles              | Karolina      | 15:00           | 00:00 (next day) |
@@ -53,6 +58,10 @@ After lunch, there will be an opportunity to join a typical Dutch sports activit
 
 ## Location
 The meeting will be held at the [VU](http://www.vu.nl/en/index.aspx) in Amsterdam.
+
+## Transportation
+If you are familiar with using a bike, the best way to get around in Amsterdam is by bike. Renting a bike is therefore recommended (Stay safe though! Cycling in Amsterdam can be quite challenging due to crowded traffic).
+Alternatively the use of the public transport (trams, buses) is recommended. You can check in and out (don't forget to check out) with your bank card.
 
 ## Accomodation
 If you want to stay in Amsterdam, we recommend these two accomodations:
